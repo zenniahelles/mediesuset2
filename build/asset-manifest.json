@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77e04089.chunk.css",
+    "main.js": "/static/js/main.04c11895.chunk.js",
+    "main.js.map": "/static/js/main.04c11895.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f66464ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f66464ee.js.map",
+    "static/js/2.2af134ba.chunk.js": "/static/js/2.2af134ba.chunk.js",
+    "static/js/2.2af134ba.chunk.js.map": "/static/js/2.2af134ba.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e5c29edc671d1e2ce0ffb42fdb741f84.js": "/precache-manifest.e5c29edc671d1e2ce0ffb42fdb741f84.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.77e04089.chunk.css.map": "/static/css/main.77e04089.chunk.css.map",
+    "static/js/2.2af134ba.chunk.js.LICENSE.txt": "/static/js/2.2af134ba.chunk.js.LICENSE.txt",
+    "static/media/banner.jpg": "/static/media/banner.2eee728e.jpg",
+    "static/media/Footer.scss": "/static/media/footerbg.7c4a0e18.jpg",
+    "static/media/hancock.png": "/static/media/hancock.87bf54d9.png",
+    "static/media/kort.jpg": "/static/media/kort.5ca0424e.jpg",
+    "static/media/loginbanner.jpg": "/static/media/loginbanner.a6ecb6a4.jpg",
+    "static/media/logo.jpg": "/static/media/logo.0d914b46.jpg",
+    "static/media/mediesuset-map.jpg": "/static/media/mediesuset-map.70cb80b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f66464ee.js",
+    "static/js/2.2af134ba.chunk.js",
+    "static/css/main.77e04089.chunk.css",
+    "static/js/main.04c11895.chunk.js"
+  ]
+}
